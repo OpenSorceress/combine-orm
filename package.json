@@ -1,0 +1,22 @@
+{
+  "name": "combine-orm",
+  "version": "0.0.0",
+  "description": "Combine ORM",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyrwilder/combine-orm.git"
+  },
+  "author": "Leah LaSalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satyrwilder/combine-orm/issues"
+  },
+  "homepage": "https://github.com/satyrwilder/combine-orm",
+  "dependencies": {
+    "waterline": "~0.9.11"
+  }
+}
